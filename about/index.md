@@ -1,26 +1,49 @@
 ---
 layout: page
-title: About the Theme
+title: My Expertise
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<div class="container">
+  <div class="user-details">
+    <center><h2> NYC based software developer and outdoors enthusiast. </h2></center>
+  </div>
+  <div class="row user">
+    <div class="three rows">
+      <h4>Design</h4>
+      <div class="dev-icons">
+      <i class="devicon-html5-plain-wordmark"></i>
+      <i class="devicon-bootstrap-plain-wordmark colored"></i>
+      <i class="devicon-sass-original colored"></i>
+      </div>
+      <p>HTML5, Sass, CSS3, Flex-Box, Bootstrap 3</p>
+    </div>
+    <div class="three rows">
+      <h4>Code</h4>
+      <div class="dev-icons">
+        <i class="devicon-javascript-plain colored"></i>
+        <i class="devicon-react-original-wordmark colored"></i>
+        <i class="devicon-nodejs-plain-wordmark"></i>
+        <i class="devicon-mysql-plain-wordmark colored"></i>
+      </div>
+      <p>Javascript(ES6), React, Redux, JSX, AngularJS, Node.js, Express, jQuery, MySQL, Knex.js, MongoDB, Mongoose, Backbone</p>
+    </div>
+    <div class="three rows">
+      <h4>Tools</h4>
+      <div class="dev-icons">
+      <i class="devicon-git-plain"></i>
+      <i class="devicon-atom-original-wordmark"></i>
+      <i class="devicon-heroku-plain-wordmark colored"></i>
+      </div>
+      <p>Git, Heroku/AWS Deployment, NPM, Mocha, Chai, Atom, Grunt</p>
+    </div>
+  </div>
+</div>
 
-## Preview
+
+## Latest Project
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
@@ -30,8 +53,4 @@ comments: false
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
