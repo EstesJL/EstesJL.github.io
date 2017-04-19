@@ -10,11 +10,11 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+<!-- ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)     -->
 
 <center><b>Gigify</b> is an artist discovery tool that creates Spotify playlists from upcoming local shows.</center>
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
+<!-- <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
 
 
 ## Preview
@@ -46,9 +46,9 @@ A quick checklist of the files you’ll want to edit to get up and running.
 
 The title of your site... shocker!
 
-Example `title: My Awesome Site`
+Example `title: My Awesome Site` -->
 
-#### bio
+<!-- #### bio
 
 The description to show on your homepage.
 
@@ -138,4 +138,4 @@ To show disqus comments for your post add `comments: true` to your post's front 
 
 ## Questions?
 
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
+Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know. -->
