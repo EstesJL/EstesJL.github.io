@@ -45,10 +45,10 @@ comments: false
 
 ## Latest Project
 <div>
-  <img src="../assets/img/gigify-splash.png">
+  <a href="www.gigify.io"><img src="../assets/img/gigify-splash.png"></a>
 </div>
 
-{% capture images %}
+<!-- {% capture images %}
 
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %} -->
