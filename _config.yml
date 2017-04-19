@@ -8,12 +8,12 @@ logo:               'assets/img/zion.jpg'
 background:         'assets/img/snowy-mountains.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://jlestes.com/
+url:                http://jlestes.com
 
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-highlighter:        black
+highlighter:        rouge
 kramdown:
   auto_ids:         true
   footnote_nr:      1
@@ -40,7 +40,7 @@ sass:
 #email:
 # twitter:            username
 facebook:           username
-github-url:         username
+github-url:         EstesJL
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          EstesJL
 #xing:              username
