@@ -45,7 +45,7 @@ comments: false
 
 ## Latest Project
 <div>
-  <a href="www.gigify.io"><img src="../assets/img/gigify-splash.png"></a>
+  <a href="//www.gigify.io"><img src="../assets/img/gigify-splash.png"></a>
 </div>
 
 <!-- {% capture images %}
