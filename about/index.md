@@ -45,7 +45,7 @@ comments: false
 
 ## Latest Project
 
-{% capture images %}
+<!-- {% capture images %}
 
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %} -->
