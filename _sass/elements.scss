@@ -168,7 +168,7 @@ figure {
   }
 }
 svg:not(:root) {
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 // keyboard tag
@@ -205,4 +205,32 @@ kbd {
     text-align: center;
     font-weight: 300;
     margin-bottom: 10px;
+}
+
+//project styling
+
+.row-content {
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 5%;
+}
+
+.sidebar-content {
+	margin: 5%;
+	margin-left: 0;
+	margin-top: 0;
+	width: 30%;
+}
+
+.project-image {
+	width: 70%;
+}
+
+.item-description {
+	text-align: left;
+}
+
+.latest-project {
+	margin: auto;
+	width: 80%;
 }

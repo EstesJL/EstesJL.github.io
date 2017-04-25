@@ -6,13 +6,13 @@ date: 2016-03-21
 comments: false
 ---
 
+<center><h2> NYC based software developer and outdoors enthusiast. </h2></center>
 <div class="container">
   <div class="user-details">
-    <center><h2> NYC based software developer and outdoors enthusiast. </h2></center>
   </div>
   <div class="row user">
-    <div class="three rows">
-      <h4>Design</h4>
+    <div class="three-rows">
+      <h2>Design</h2>
       <div class="dev-icons">
       <i class="devicon-html5-plain-wordmark"></i>
       <i class="devicon-bootstrap-plain-wordmark colored"></i>
@@ -20,8 +20,8 @@ comments: false
       </div>
       <p>HTML5, Sass, CSS3, Flex-Box, Bootstrap 3</p>
     </div>
-    <div class="three rows">
-      <h4>Code</h4>
+    <div class="three-rows">
+      <h2>Code</h2>
       <div class="dev-icons">
         <i class="devicon-javascript-plain colored"></i>
         <i class="devicon-react-original-wordmark colored"></i>
@@ -30,8 +30,8 @@ comments: false
       </div>
       <p>Javascript(ES6), React, Redux, JSX, AngularJS, Node.js, Express, jQuery, MySQL, Knex.js, MongoDB, Mongoose, Backbone</p>
     </div>
-    <div class="three rows">
-      <h4>Tools</h4>
+    <div class="three-rows">
+      <h2>Tools</h2>
       <div class="dev-icons">
       <i class="devicon-git-plain"></i>
       <i class="devicon-atom-original-wordmark"></i>
@@ -42,9 +42,8 @@ comments: false
   </div>
 </div>
 
-
-## Latest Project
-<div>
+<center><h2> Latest Project </h2></center>
+<div class="latest-project">
   <a href="//www.gigify.io"><img src="../assets/img/gigify-splash.png"></a>
 </div>
 
