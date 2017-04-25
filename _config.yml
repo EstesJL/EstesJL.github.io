@@ -2,13 +2,14 @@
 title:              Jordan Estes
 bio:                'NYC-Based Software Engineer'
 description:        ""
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/Zion.jpg'
 background:         'assets/img/snowy-mountains.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://jlestes.com
+
 
 # Jekyll
 permalink:          /:title/
@@ -39,7 +40,7 @@ sass:
 #bing-verify:
 #email:
 # twitter:            username
-facebook:           username
+# facebook:           username
 github-url:         EstesJL
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          EstesJL
