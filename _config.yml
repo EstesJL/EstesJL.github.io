@@ -11,6 +11,7 @@ locale:             en_US
 url:                http://jlestes.com
 
 
+
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
