@@ -8,9 +8,9 @@ logo:               'assets/img/Zion.jpg'
 background:         'assets/img/snowy-mountains.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://jlestes.com
+url:                http://localhost:4000
 
-
+# http://jlestes.com
 
 # Jekyll
 permalink:          /:title/
