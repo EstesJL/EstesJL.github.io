@@ -2,6 +2,7 @@
 layout: post
 title:  "Reminder-X"
 date:   2017-04-05
+url: "/reminder-x"
 excerpt: "Receive custom text reminders to track daily medications"
 project: true
 tag:

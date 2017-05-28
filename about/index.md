@@ -2,14 +2,16 @@
 layout: page
 title: My Expertise
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2017-05-28
 comments: false
 ---
 
 <center><h2> NYC based software developer and outdoors enthusiast. </h2></center>
+<div class="user-details">
+  <p class="self-description">I develop full-stack applications in Javascript with a variety of technologies. Before programming, I worked in marketing, finance, and user research. In my previous role, I helped conduct a three-month user study and eventually developed and launched an innovative mindfulness-based financial product.</p>
+</div>
 <div class="container">
-  <div class="user-details">
-  </div>
+
   <div class="row user">
     <div class="three-rows">
       <h2>Design</h2>
@@ -28,7 +30,7 @@ comments: false
         <i class="devicon-nodejs-plain-wordmark"></i>
         <i class="devicon-mysql-plain-wordmark colored"></i>
       </div>
-      <p>Javascript(ES6), React, Redux, JSX, AngularJS, Node.js, Express, jQuery, MySQL, Knex.js, MongoDB, Mongoose, Backbone</p>
+      <p>Javascript(ES6), React, Redux, JSX, React Native, AngularJS, Node.js, Express, jQuery, MySQL, Knex.js, MongoDB, Mongoose, Backbone</p>
     </div>
     <div class="three-rows">
       <h2>Tools</h2>
@@ -43,6 +45,7 @@ comments: false
 </div>
 
 <center><h2> Latest Project </h2></center>
+<center><p>I'm currently working with other members of the development team to convert Gigify into a mobile app using React Native. Stay tuned!</p></center>
 <div class="latest-project">
   <a href="//www.gigify.io"><img src="../assets/img/gigify-splash.png"></a>
 </div>
